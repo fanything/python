@@ -11,3 +11,4 @@ for item in data:
                 print(work,end='')
 data.close()
 print("1")
+print("2")
