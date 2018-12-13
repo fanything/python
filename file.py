@@ -10,3 +10,4 @@ for item in data:
                 print(' said: ',end='')
                 print(work,end='')
 data.close()
+print("1")
