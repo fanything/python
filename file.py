@@ -12,3 +12,4 @@ for item in data:
 data.close()
 print("1")
 print("2")
+print("3")
