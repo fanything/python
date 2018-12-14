@@ -10,4 +10,15 @@ for item in data:
                 print(' said: ',end='')
                 print(work,end='')
 data.close()
+<<<<<<< HEAD
 print('master')
+=======
+<<<<<<< 0b14fd2ff4f76729fb80c51a64c5ead3fb653c0f
+print("1")
+print("2")
+print("3")
+=======
+print("3")
+print("4")
+>>>>>>> 44
+>>>>>>> v.1.0.0
