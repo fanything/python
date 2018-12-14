@@ -11,6 +11,7 @@ for item in data:
                 print(work,end='')
 data.close()
 print('master')
+
 print("1")
 print("2")
 print("3")
